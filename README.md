@@ -1,2 +1,9 @@
-# SiteWebTrailer
-Répertoire de film à l'aide de l'api de Themoviedb et de ReactJs
+### ReactRedux-Starter ###
+
+Pour installer le projet se placer dans le projet et lancer : 
+
+```
+> npm install
+> npm start
+```
+
